@@ -1,0 +1,6 @@
+{
+  "name": "System Engineering Studio",
+  "description": "Architecture analysis, requirements engineering, and full-stack software system implementation platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
